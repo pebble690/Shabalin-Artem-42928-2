@@ -1,0 +1,20 @@
+E:\Прикладное программирование\ЛР 6\lab 6\lab 6\bin\Debug\lab 6.exe.config
+E:\Прикладное программирование\ЛР 6\lab 6\lab 6\bin\Debug\lab 6.exe
+E:\Прикладное программирование\ЛР 6\lab 6\lab 6\bin\Debug\lab 6.pdb
+E:\Прикладное программирование\ЛР 6\lab 6\lab 6\obj\Debug\lab 6.csprojAssemblyReference.cache
+E:\Прикладное программирование\ЛР 6\lab 6\lab 6\obj\Debug\lab_6.Form1.resources
+E:\Прикладное программирование\ЛР 6\lab 6\lab 6\obj\Debug\lab_6.Properties.Resources.resources
+E:\Прикладное программирование\ЛР 6\lab 6\lab 6\obj\Debug\lab 6.csproj.GenerateResource.cache
+E:\Прикладное программирование\ЛР 6\lab 6\lab 6\obj\Debug\lab 6.csproj.CoreCompileInputs.cache
+E:\Прикладное программирование\ЛР 6\lab 6\lab 6\obj\Debug\lab 6.exe
+E:\Прикладное программирование\ЛР 6\lab 6\lab 6\obj\Debug\lab 6.pdb
+F:\Прикладное программирование\ЛР 6\lab 6\lab 6\bin\Debug\lab 6.exe.config
+F:\Прикладное программирование\ЛР 6\lab 6\lab 6\bin\Debug\lab 6.exe
+F:\Прикладное программирование\ЛР 6\lab 6\lab 6\bin\Debug\lab 6.pdb
+F:\Прикладное программирование\ЛР 6\lab 6\lab 6\obj\Debug\lab 6.csprojAssemblyReference.cache
+F:\Прикладное программирование\ЛР 6\lab 6\lab 6\obj\Debug\lab_6.Form1.resources
+F:\Прикладное программирование\ЛР 6\lab 6\lab 6\obj\Debug\lab_6.Properties.Resources.resources
+F:\Прикладное программирование\ЛР 6\lab 6\lab 6\obj\Debug\lab 6.csproj.GenerateResource.cache
+F:\Прикладное программирование\ЛР 6\lab 6\lab 6\obj\Debug\lab 6.csproj.CoreCompileInputs.cache
+F:\Прикладное программирование\ЛР 6\lab 6\lab 6\obj\Debug\lab 6.exe
+F:\Прикладное программирование\ЛР 6\lab 6\lab 6\obj\Debug\lab 6.pdb
