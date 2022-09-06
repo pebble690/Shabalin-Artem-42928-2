@@ -1,0 +1,30 @@
+F:\Прикладное программирование\лр 8\Программа 8\Lab8\Lab8\bin\Debug\Lab8.exe.config
+F:\Прикладное программирование\лр 8\Программа 8\Lab8\Lab8\bin\Debug\Lab8.exe
+F:\Прикладное программирование\лр 8\Программа 8\Lab8\Lab8\bin\Debug\Lab8.pdb
+F:\Прикладное программирование\лр 8\Программа 8\Lab8\Lab8\obj\Debug\Lab8.csprojAssemblyReference.cache
+F:\Прикладное программирование\лр 8\Программа 8\Lab8\Lab8\obj\Debug\Lab8.Properties.Resources.resources
+F:\Прикладное программирование\лр 8\Программа 8\Lab8\Lab8\obj\Debug\Lab8.csproj.GenerateResource.cache
+F:\Прикладное программирование\лр 8\Программа 8\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+F:\Прикладное программирование\лр 8\Программа 8\Lab8\Lab8\obj\Debug\Lab8.exe
+F:\Прикладное программирование\лр 8\Программа 8\Lab8\Lab8\obj\Debug\Lab8.pdb
+F:\Прикладное программирование\лр 8\Программа 8\Lab8\Lab8\obj\Debug\Lab8.Form1.resources
+F:\флешка\Прикладное программирование\лр 8\Программа 8\Lab8\Lab8\bin\Debug\Lab8.exe.config
+F:\флешка\Прикладное программирование\лр 8\Программа 8\Lab8\Lab8\bin\Debug\Lab8.exe
+F:\флешка\Прикладное программирование\лр 8\Программа 8\Lab8\Lab8\bin\Debug\Lab8.pdb
+F:\флешка\Прикладное программирование\лр 8\Программа 8\Lab8\Lab8\obj\Debug\Lab8.csprojAssemblyReference.cache
+F:\флешка\Прикладное программирование\лр 8\Программа 8\Lab8\Lab8\obj\Debug\Lab8.Form1.resources
+F:\флешка\Прикладное программирование\лр 8\Программа 8\Lab8\Lab8\obj\Debug\Lab8.Properties.Resources.resources
+F:\флешка\Прикладное программирование\лр 8\Программа 8\Lab8\Lab8\obj\Debug\Lab8.csproj.GenerateResource.cache
+F:\флешка\Прикладное программирование\лр 8\Программа 8\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+F:\флешка\Прикладное программирование\лр 8\Программа 8\Lab8\Lab8\obj\Debug\Lab8.exe
+F:\флешка\Прикладное программирование\лр 8\Программа 8\Lab8\Lab8\obj\Debug\Lab8.pdb
+F:\флешка\Прикладное программирование\лр 8\Тест\Lab8\Lab8\bin\Debug\Lab8.exe.config
+F:\флешка\Прикладное программирование\лр 8\Тест\Lab8\Lab8\bin\Debug\Lab8.exe
+F:\флешка\Прикладное программирование\лр 8\Тест\Lab8\Lab8\bin\Debug\Lab8.pdb
+F:\флешка\Прикладное программирование\лр 8\Тест\Lab8\Lab8\obj\Debug\Lab8.csprojAssemblyReference.cache
+F:\флешка\Прикладное программирование\лр 8\Тест\Lab8\Lab8\obj\Debug\Lab8.Form1.resources
+F:\флешка\Прикладное программирование\лр 8\Тест\Lab8\Lab8\obj\Debug\Lab8.Properties.Resources.resources
+F:\флешка\Прикладное программирование\лр 8\Тест\Lab8\Lab8\obj\Debug\Lab8.csproj.GenerateResource.cache
+F:\флешка\Прикладное программирование\лр 8\Тест\Lab8\Lab8\obj\Debug\Lab8.csproj.CoreCompileInputs.cache
+F:\флешка\Прикладное программирование\лр 8\Тест\Lab8\Lab8\obj\Debug\Lab8.exe
+F:\флешка\Прикладное программирование\лр 8\Тест\Lab8\Lab8\obj\Debug\Lab8.pdb
